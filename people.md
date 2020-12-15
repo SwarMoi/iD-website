@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-subtitle: 
+subtitle: People
 ---
 
 ## PI
